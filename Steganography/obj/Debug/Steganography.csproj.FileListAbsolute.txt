@@ -1,0 +1,19 @@
+C:\Users\quang\documents\visual studio 2017\Projects\Steganography\Steganography\bin\Debug\Steganography.exe.config
+C:\Users\quang\documents\visual studio 2017\Projects\Steganography\Steganography\bin\Debug\Steganography.exe
+C:\Users\quang\documents\visual studio 2017\Projects\Steganography\Steganography\bin\Debug\Steganography.pdb
+C:\Users\quang\documents\visual studio 2017\Projects\Steganography\Steganography\obj\Debug\Steganography.Form1.resources
+C:\Users\quang\documents\visual studio 2017\Projects\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+C:\Users\quang\documents\visual studio 2017\Projects\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\quang\documents\visual studio 2017\Projects\Steganography\Steganography\obj\Debug\Steganography.exe
+C:\Users\quang\documents\visual studio 2017\Projects\Steganography\Steganography\obj\Debug\Steganography.pdb
+C:\Users\quang\documents\visual studio 2017\Projects\Steganography\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+D:\Quang\IT\Tài liệu đh\Năm 4\Forensic\Steganography\Steganography\bin\Debug\Steganography.exe.config
+D:\Quang\IT\Tài liệu đh\Năm 4\Forensic\Steganography\Steganography\bin\Debug\Steganography.exe
+D:\Quang\IT\Tài liệu đh\Năm 4\Forensic\Steganography\Steganography\bin\Debug\Steganography.pdb
+D:\Quang\IT\Tài liệu đh\Năm 4\Forensic\Steganography\Steganography\obj\Debug\Steganography.Form1.resources
+D:\Quang\IT\Tài liệu đh\Năm 4\Forensic\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+D:\Quang\IT\Tài liệu đh\Năm 4\Forensic\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+D:\Quang\IT\Tài liệu đh\Năm 4\Forensic\Steganography\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+D:\Quang\IT\Tài liệu đh\Năm 4\Forensic\Steganography\Steganography\obj\Debug\Steganography.exe
+D:\Quang\IT\Tài liệu đh\Năm 4\Forensic\Steganography\Steganography\obj\Debug\Steganography.pdb
+D:\Quang\IT\Tài liệu đh\Năm 4\Forensic\Steganography\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
